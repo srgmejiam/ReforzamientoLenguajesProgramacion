@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReforzamientoLenguajesProgramacion", "ReforzamientoLenguajesProgramacion\ReforzamientoLenguajesProgramacion.csproj", "{AB71F15F-4F64-4F0B-88BF-7B4C0576FCBC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EL", "EL\EL.csproj", "{51D7F3EC-7CF9-4C22-A183-87112CFD1652}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB71F15F-4F64-4F0B-88BF-7B4C0576FCBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB71F15F-4F64-4F0B-88BF-7B4C0576FCBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB71F15F-4F64-4F0B-88BF-7B4C0576FCBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB71F15F-4F64-4F0B-88BF-7B4C0576FCBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51D7F3EC-7CF9-4C22-A183-87112CFD1652}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51D7F3EC-7CF9-4C22-A183-87112CFD1652}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51D7F3EC-7CF9-4C22-A183-87112CFD1652}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51D7F3EC-7CF9-4C22-A183-87112CFD1652}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DAE4F860-931D-4D34-A523-3BD7DC8578FC}
+	EndGlobalSection
+EndGlobal
